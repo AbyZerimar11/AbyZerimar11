@@ -34,13 +34,6 @@
 - 🧰 Mantenimiento de bases de datos y APIs REST  
 - 👥 Coordinación de equipos QA-Dev bajo metodologías ágiles (Scrum)
 
----
-
-### 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/AbyZerimar11?template=classic&isocalendar=1&stars=1&habits=1&repositories=1&achievements=1&activity=1&introduction=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FMexico_City" alt="metrics" width="100%">
-</p>
 
 ---
 
