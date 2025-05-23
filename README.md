@@ -1,9 +1,7 @@
-### 📊 GitHub Metrics
+## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/AbyZerimar11
-?template=classic&base=header,activity,community,repositories,metadata&isocalendar=1&lines=1&stars=1&habits=1&repositories=1&achievements=1&activity=1&introduction=1&code=1&config.timezone=America%2FMexico_City" alt="GitHub Metrics" width="100%">
-</p>
+![Metrics](https://metrics.lecoq.io/AbyZerimar11?template=classic&isocalendar=1&stars=1&habits=1&repositories=1&achievements=1&activity=1&introduction=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FMexico_City)
+
 
 <h1 align="center">¡Hola! Soy Abigail Reyes 👋</h1>
 <h3 align="center">QA Engineer | Web & Mobile Developer | Project Manager | Data Enthusiast</h3>
