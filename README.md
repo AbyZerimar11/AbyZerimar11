@@ -9,11 +9,22 @@
 ---
 
 ### 🚀 Sobre mí
+🔍 QA Engineer con experiencia sólida en:
+- Pruebas **manuales y automatizadas** (web y mobile)
+- Diseño de **casos de prueba**, análisis de requerimientos y ejecución de pruebas end-to-end
+- Automatización con **Selenium**, documentación con **Postman** y gestión ágil en **Scrum**
 
-🔍 QA Engineer con sólida experiencia en pruebas manuales y automatizadas, diseño de casos de prueba, análisis de requerimientos y aseguramiento de la calidad en aplicaciones móviles y web.  
-💡 También tengo experiencia en desarrollo web, gestión de bases de datos (SQL Server) y liderazgo de proyectos.  
-🎓 Graduada en Sistemas Computacionales con Maestría en Marketing Digital.  
-🛠️ Tecnologías: JavaScript · HTML/CSS · SQL · Postman · Selenium · Jest · Playwright · Git · Jira · CI/CD
+💡 También tengo conocimientos en:
+- Desarrollo web (HTML, CSS, JS)
+- Bases de datos (**SQL Server**)
+- Gestión de proyectos y liderazgo de equipos QA-Dev
+
+🎓 Formación:
+- Lic. en Sistemas Computacionales
+- Maestría en Marketing Digital
+
+🛠️ Tecnologías y herramientas:
+`JavaScript` · `HTML/CSS` · `SQL` · `Postman` · `Selenium` · `Jest` · `Playwright` · `Git` · `Jira` · `CI/CD`
 
 ---
 
@@ -50,12 +61,21 @@
 
 ---
 
-### 🚀 Proyectos destacados
+## 💼 Experiencia destacada
 
-- 🎯 **Test de registro y pagos** – Automatización de app móvil (Selenium + Appium)  
-- 🧾 **Verificación de API REST** – Validación con Postman y documentación Swagger  
-- 🧪 **Kit Builder QA** – Proyecto completo QA para app de supermercado  
-- 🔁 **Pruebas CI/CD** – Integración en GitHub Actions con reportes dinámicos
+- 🧪 Automatización de pruebas end-to-end para apps móviles (**Urban Routes**, **Urban Grocers**)
+- 📊 Validación de flujos de datos y pagos en entornos reales
+- 🧰 Mantenimiento de bases de datos y pruebas sobre APIs REST
+- 👥 Coordinación y trabajo colaborativo con equipos en **Scrum**
+
+---
+
+## 📦 Proyectos destacados
+
+- 🎯 **Test de Registro y Pagos** – Automatización móvil con `Selenium + Appium`
+- 🧾 **Verificación de API REST** – Pruebas con `Postman`, documentación con `Swagger`
+- 🧪 **Kit Builder QA** – Pruebas funcionales para app tipo supermercado
+- 🔁 **Pruebas CI/CD** – Integración en `GitHub Actions` con reportes automáticos
 
 ---
 
